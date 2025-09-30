@@ -1,5 +1,11 @@
 # AIOTS x TRON 2025 - Visual IDE for Micro:bit Development
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&borderRadius=10" alt="C++" style="border-radius: 10px;">
+  <img src="https://img.shields.io/badge/Micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=white&borderRadius=10" alt="Micro:bit" style="border-radius: 10px;">
+  <img src="https://img.shields.io/badge/μT_Kernel-3.0-orange?style=for-the-badge&borderRadius=10" alt="μT Kernel 3.0" style="border-radius: 10px;">
+</p>
+
 A visual programming environment that enables drag-and-drop C++ code blocks with AI-powered code refinement for Micro:bit microcontroller compatibility.
 
 ## Overview
@@ -104,3 +110,4 @@ For questions or issues, please open an issue in the GitHub repository.
 ## Special Thanks
 
 * The developers of [Blockly](https://github.com/google/blockly)
+
