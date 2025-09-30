@@ -32,7 +32,7 @@ Our project provides an intuitive visual interface where users can construct C++
 * Node.js (for Live Server)
 * Google Gemini API Key
 * Modern web browser
-* BBC Microb:bit V3
+* BBC Micro:bit V3
 
 ## Setup Instructions
 
@@ -110,4 +110,5 @@ For questions or issues, please open an issue in the GitHub repository.
 ## Special Thanks
 
 * The developers of [Blockly](https://github.com/google/blockly)
+
 
