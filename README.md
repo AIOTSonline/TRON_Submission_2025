@@ -12,6 +12,10 @@ A visual programming environment that enables drag-and-drop C++ code blocks with
 
 Our project provides an intuitive visual interface where users can construct C++ programs by dragging and dropping code blocks. The integrated GenAI system analyzes and refines the code to ensure compatibility with the BBC Micro:bit microcontroller platform.
 
+## Architecture Diagram
+
+![WhatsApp Image 2025-09-30 at 8 14 59 PM](https://github.com/user-attachments/assets/59b1ab6a-c678-46d5-a2e8-f293f827bbff)
+
 ## Features
 
 * **Visual Drag-and-Drop Interface**: Intuitive block-based programming for C++ code
@@ -110,5 +114,6 @@ For questions or issues, please open an issue in the GitHub repository.
 ## Special Thanks
 
 * The developers of [Blockly](https://github.com/google/blockly)
+
 
 
